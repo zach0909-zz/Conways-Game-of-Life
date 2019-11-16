@@ -1,3 +1,17 @@
+There are 5 main files here:
+
+1. table.jsx - contains the table component
+2. button.jsx - contains the button component to start and stop the application
+3. buildGrid.js - builds the initial grid and assigns random values to each cell
+4. checkstatus.js - where all the logic exists for checking each cell and changing the grid based on the rules in the instructions. 
+5. index.js - where the application starts.
+
+Once you click on the START button, the grid will change every second. Click stop to pause the game and click start to resume.
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
